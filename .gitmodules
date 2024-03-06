@@ -1,0 +1,9 @@
+[submodule "NRF52840-Brushed-Motor-Controller-Hardware"]
+	path = NRF52840-Brushed-Motor-Controller-Hardware
+	url = https://github.com/sikormaniak/NRF52840-Brushed-Motor-Controller-Hardware.git
+[submodule "NRF52840-Brushed-Motor-Controller-HostApp"]
+	path = NRF52840-Brushed-Motor-Controller-HostApp
+	url = https://github.com/eSqadron/NRF52840-Brushed-Motor-Controller-HostApp.git
+[submodule "NRF52840-Brushed-Motor-Controller-Firmware"]
+	path = NRF52840-Brushed-Motor-Controller-Firmware
+	url = https://github.com/eSqadron/NRF52840-Brushed-Motor-Controller-Firmware.git
